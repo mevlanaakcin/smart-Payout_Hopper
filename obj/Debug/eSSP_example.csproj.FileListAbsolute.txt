@@ -1,0 +1,34 @@
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\bin\Debug\eSSP_example.exe.config
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.exe
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.pdb
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.csprojResolveAssemblyReference.cache
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.CCommsWindow.resources
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.Form1.resources
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.frmOpenMenu.resources
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.frmSetLevel.resources
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.frmSettings.resources
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.Properties.Resources.resources
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.csproj.GenerateResource.Cache
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\bin\Debug\Resources\Commands.xml
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\bin\Debug\Resources\GenericResponses.xml
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\bin\Debug\Resources\PollResponses.xml
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\bin\Debug\eSSP_example.exe
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\bin\Debug\eSSP_example.pdb
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\bin\Debug\ITLlib.dll
+\\fs1\shared\Innovative Technology\Support\Software\SDKs\SDK 1.2 - Latest Release\Windows\C# .Net\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.frmPayoutByDenom.resources
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\bin\Debug\eSSP_example.exe.config
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.exe
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.pdb
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\bin\Debug\Resources\Commands.xml
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\bin\Debug\Resources\GenericResponses.xml
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\bin\Debug\Resources\PollResponses.xml
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\bin\Debug\eSSP_example.exe
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\bin\Debug\eSSP_example.pdb
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\bin\Debug\ITLlib.dll
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.csprojResolveAssemblyReference.cache
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.frmPayoutByDenom.resources
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.frmSetLevel.resources
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.Properties.Resources.resources
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.csproj.GenerateResource.Cache
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\bin\Debug\CcTalkCommLib2.dll
+C:\Users\Mevlana\Desktop\SMART Payout - SMART Hopper\VS2010 Project\eSSP_example\obj\Debug\eSSP_example.Form1.resources
